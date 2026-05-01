@@ -24,10 +24,10 @@ Input Video → YOLOv8 Detection → ByteTrack ID Assignment → Annotated Outpu
 
 | Detail | Info |
 |--------|------|
-| **Video Title** | *(Add your chosen video title here)* |
-| **Public URL**  | *(Add YouTube / public link here)* |
-| **Category**    | Cricket / Football / Marathon (choose one) |
-| **Duration**    | *(e.g. ~3 minutes used)* |
+| **Video Title** | Chelsea vs Brighton | Premier League Highlights |
+| **Public URL**  | https://www.youtube.com/watch?v=jkgE-H3DvPg |
+| **Category**    | Football |
+| **Duration**    | ~114 seconds (1 min 54 sec) |
 | **Resolution**  | 720p |
 
 > The video is publicly available and used solely for evaluation/academic purposes.
@@ -253,4 +253,4 @@ Key settings in `pipeline.py → DEFAULT_CONFIG`:
 
 Submitted as part of the Predusk Technology Paid Internship Assessment.  
 **Assessment Type:** AI / Computer Vision  
-**Contact:** *(Your email)*
+**Contact:** harshitg.ax@gmail.com
