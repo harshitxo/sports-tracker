@@ -107,7 +107,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Option A — Command Line (Recommended)
 
