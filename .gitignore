@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data & output (large files — don't commit)
+data/
+output/*.mp4
+output/analytics/
+*.mp4
+*.avi
+*.mov
+
+# YOLO weights (auto-downloaded)
+*.pt
+*.onnx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Stats output (optional to commit)
+output/run_stats.json
